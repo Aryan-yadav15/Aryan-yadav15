@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Aryan Yadav, a Full Stack Software Engineer Based in INDIA 🇮🇳. Currently, I'm working on an AI-driven interview and blog platform.
+Hi, I'm Aryan Yadav, a Full Stack Software Engineer Based in INDIA . Currently, I'm working on an AI-driven interview and blog platform.
 
 
 ## 🌐 Socials:
