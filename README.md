@@ -1,10 +1,7 @@
 <!-- Banner, letter and stats are generated: see assets/build.py and assets/stats.py -->
 
 <a href="https://www.linkedin.com/in/aryanyadav-dev/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aryan-yadav15/Aryan-yadav15/main/assets/hero-dark.svg"/>
-    <img src="https://raw.githubusercontent.com/Aryan-yadav15/Aryan-yadav15/main/assets/hero-light.svg" width="100%" alt="Aryan Yadav. Full stack. Fully shipped."/>
-  </picture>
+  <img src="https://raw.githubusercontent.com/Aryan-yadav15/Aryan-yadav15/main/assets/hero-light.svg" width="100%" alt="Aryan Yadav. Full stack. Fully shipped."/>
 </a>
 
 <p align="center">
@@ -14,10 +11,7 @@
   <a href="mailto:aryanyadav.devop@gmail.com"><b>Email</b></a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aryan-yadav15/Aryan-yadav15/main/assets/about-dark.svg"/>
-  <img src="https://raw.githubusercontent.com/Aryan-yadav15/Aryan-yadav15/main/assets/about-light.svg" width="100%" alt="From the engineer: I build products end to end."/>
-</picture>
+<img src="https://raw.githubusercontent.com/Aryan-yadav15/Aryan-yadav15/main/assets/about-light.svg" width="100%" alt="From the engineer: I build products end to end."/>
 
 ## The work
 
@@ -68,26 +62,17 @@ Ask a database a question in plain English and get a real query back.
 
 ## The map
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aryan-yadav15/Aryan-yadav15/main/assets/map-dark.svg"/>
-  <img src="https://raw.githubusercontent.com/Aryan-yadav15/Aryan-yadav15/main/assets/map-light.svg" width="100%" alt="Every repo embedded as a vector and projected to 2D, coloured by domain"/>
-</picture>
+<img src="https://raw.githubusercontent.com/Aryan-yadav15/Aryan-yadav15/main/assets/map-light.svg" width="100%" alt="Every repo embedded as a vector and projected to 2D, coloured by domain"/>
 
 <sub>Each repo's README, dependencies and file/route names are embedded with <code>bge-small-en-v1.5</code>, projected to 2D with UMAP, and labelled by zero-shot classification against a description of each domain. Source: <a href="map/embed.py"><code>map/embed.py</code></a>.</sub>
 
 ## The toolkit
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aryan-yadav15/Aryan-yadav15/main/assets/toolkit-dark.svg"/>
-  <img src="https://raw.githubusercontent.com/Aryan-yadav15/Aryan-yadav15/main/assets/toolkit-light.svg" width="100%" alt="Toolkit. AI and ML: Gemini, LangChain, Transformers.js, RAG, vector search, embeddings. Mobile: Kotlin, Jetpack Compose, Hilt, Room, React Native, Expo, Firebase, Razorpay. Web: TypeScript, React, Next.js, Tailwind, TanStack Query, Redux, MapLibre, Leaflet. Backend: FastAPI, Python, Node.js, PostgreSQL, PostGIS, Supabase, Redis, Celery, SQLAlchemy, Prisma, Drizzle, MongoDB, WebSockets, Docker, H3. Automation: Playwright, UiPath, scraping, schedulers, launchd, Android Accessibility, GitHub Actions. 3D: Blender, Gaussian splatting, COLMAP, Three.js, Spark, OpenCV, FFmpeg. Design: Figma, Illustrator, Photoshop, Lottie."/>
-</picture>
+<img src="https://raw.githubusercontent.com/Aryan-yadav15/Aryan-yadav15/main/assets/toolkit-light.svg" width="100%" alt="Toolkit. AI and ML: Gemini, LangChain, Transformers.js, RAG, vector search, embeddings. Mobile: Kotlin, Jetpack Compose, Hilt, Room, React Native, Expo, Firebase, Razorpay. Web: TypeScript, React, Next.js, Tailwind, TanStack Query, Redux, MapLibre, Leaflet. Backend: FastAPI, Python, Node.js, PostgreSQL, PostGIS, Supabase, Redis, Celery, SQLAlchemy, Prisma, Drizzle, MongoDB, WebSockets, Docker, H3. Automation: Playwright, UiPath, scraping, schedulers, launchd, Android Accessibility, GitHub Actions. 3D: Blender, Gaussian splatting, COLMAP, Three.js, Spark, OpenCV, FFmpeg. Design: Figma, Illustrator, Photoshop, Lottie."/>
 
 ## By the numbers
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aryan-yadav15/Aryan-yadav15/output/stats-dark.svg"/>
-  <img src="https://raw.githubusercontent.com/Aryan-yadav15/Aryan-yadav15/output/stats-light.svg" width="100%" alt="GitHub stats"/>
-</picture>
+<img src="https://raw.githubusercontent.com/Aryan-yadav15/Aryan-yadav15/output/stats-light.svg" width="100%" alt="GitHub stats"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aryan-yadav15/Aryan-yadav15/output/snake-dark.svg"/>
