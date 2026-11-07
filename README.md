@@ -78,11 +78,9 @@ Ask a database a question in plain English and get a real query back.
 ## The toolkit
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnodejs%2Cexpress%2Cpython%2Cfastapi%2Cjava%2Cpostgres%2Cmysql%2Cmongodb%2Cthreejs%2Cvercel%2Cfigma%2Cai%2Cps&perline=16&theme=dark"/>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,python,fastapi,java,postgres,mysql,mongodb,threejs,vercel,figma,ai,ps&perline=16&theme=light" width="100%" alt="TypeScript, JavaScript, React, Node, Express, Python, FastAPI, Java, Postgres, MySQL, MongoDB, Three.js, Vercel, Figma, Illustrator, Photoshop"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aryan-yadav15/Aryan-yadav15/main/assets/toolkit-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/Aryan-yadav15/Aryan-yadav15/main/assets/toolkit-light.svg" width="100%" alt="Toolkit. AI and ML: Gemini, LangChain, Transformers.js, RAG, vector search, embeddings. Mobile: Kotlin, Jetpack Compose, Hilt, Room, React Native, Expo, Firebase, Razorpay. Web: TypeScript, React, Next.js, Tailwind, TanStack Query, Redux, MapLibre, Leaflet. Backend: FastAPI, Python, Node.js, PostgreSQL, PostGIS, Supabase, Redis, Celery, SQLAlchemy, Prisma, Drizzle, MongoDB, WebSockets, Docker, H3. Automation: Playwright, UiPath, scraping, schedulers, launchd, Android Accessibility, GitHub Actions. 3D: Blender, Gaussian splatting, COLMAP, Three.js, Spark, OpenCV, FFmpeg. Design: Figma, Illustrator, Photoshop, Lottie."/>
 </picture>
-
-<sub>Also: Socket.io · JWT auth · React Router · browser and IDE extensions · RAG pipelines</sub>
 
 ## By the numbers
 

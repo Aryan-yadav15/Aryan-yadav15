@@ -97,8 +97,8 @@ LETTER = (
 SPECS = [
     ("Based in", "India"),
     ("Building", "KhaoGully"),
-    ("Focus", "Products · AI tooling"),
-    ("Languages", "TypeScript · Python · Java"),
+    ("Focus", "AI · Mobile · 3D"),
+    ("Languages", "TypeScript · Python · Kotlin"),
     ("Status", "Open to work"),
 ]
 
