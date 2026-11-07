@@ -1,0 +1,321 @@
+{
+ "model": "BAAI/bge-small-en-v1.5",
+ "dims": 384,
+ "projects": [
+  {
+   "name": "Ai-github",
+   "url": "https://github.com/Aryan-yadav15/Ai-github",
+   "lang": "TypeScript",
+   "x": 9.219745635986328,
+   "y": 10.841662406921387,
+   "domain": "AI & developer tools",
+   "corrected": false
+  },
+  {
+   "name": "AIPortfolio-Client",
+   "url": "https://github.com/Aryan-yadav15/AIPortfolio-Client",
+   "lang": "JavaScript",
+   "x": 7.331368446350098,
+   "y": 14.099189758300781,
+   "domain": "Brand sites & portfolios",
+   "corrected": false
+  },
+  {
+   "name": "Aryan-Yadav",
+   "url": "https://github.com/Aryan-yadav15/Aryan-Yadav",
+   "lang": "HTML",
+   "x": 8.667452812194824,
+   "y": 9.439552307128906,
+   "domain": "Brand sites & portfolios",
+   "corrected": false
+  },
+  {
+   "name": "Automation-Manger",
+   "url": "https://github.com/Aryan-yadav15/Automation-Manger",
+   "lang": "TypeScript",
+   "x": 6.785709857940674,
+   "y": 12.53276252746582,
+   "domain": "Brand sites & portfolios",
+   "corrected": false
+  },
+  {
+   "name": "Blend",
+   "url": "https://github.com/Aryan-yadav15/Blend",
+   "lang": "TypeScript",
+   "x": 6.419501781463623,
+   "y": 13.113593101501465,
+   "domain": "Community & realtime",
+   "corrected": false
+  },
+  {
+   "name": "CampusBuzz",
+   "url": "https://github.com/Aryan-yadav15/CampusBuzz",
+   "lang": "TypeScript",
+   "x": 5.8729119300842285,
+   "y": 12.750223159790039,
+   "domain": "Community & realtime",
+   "corrected": false
+  },
+  {
+   "name": "Client-Petrolium_Web",
+   "url": "https://github.com/Aryan-yadav15/Client-Petrolium_Web",
+   "lang": "JavaScript",
+   "x": 7.479113578796387,
+   "y": 12.71127700805664,
+   "domain": "Brand sites & portfolios",
+   "corrected": false
+  },
+  {
+   "name": "Client-portfolio-3",
+   "url": "https://github.com/Aryan-yadav15/Client-portfolio-3",
+   "lang": "JavaScript",
+   "x": 8.571599006652832,
+   "y": 14.626776695251465,
+   "domain": "Brand sites & portfolios",
+   "corrected": false
+  },
+  {
+   "name": "Database-NLP-Query",
+   "url": "https://github.com/Aryan-yadav15/Database-NLP-Query",
+   "lang": "Python",
+   "x": 9.538310050964355,
+   "y": 10.177006721496582,
+   "domain": "AI & developer tools",
+   "corrected": false
+  },
+  {
+   "name": "DocAiAssist",
+   "url": "https://github.com/Aryan-yadav15/DocAiAssist",
+   "lang": "TypeScript",
+   "x": 9.698426246643066,
+   "y": 11.286364555358887,
+   "domain": "AI & developer tools",
+   "corrected": false
+  },
+  {
+   "name": "formfillerAi-Browser-extension",
+   "url": "https://github.com/Aryan-yadav15/formfillerAi-Browser-extension",
+   "lang": "TypeScript",
+   "x": 8.795737266540527,
+   "y": 10.391210556030273,
+   "domain": "AI & developer tools",
+   "corrected": false
+  },
+  {
+   "name": "Framer_Design",
+   "url": "https://github.com/Aryan-yadav15/Framer_Design",
+   "lang": "JavaScript",
+   "x": 6.944979190826416,
+   "y": 13.715917587280273,
+   "domain": "Brand sites & portfolios",
+   "corrected": false
+  },
+  {
+   "name": "Hackathon",
+   "url": "https://github.com/Aryan-yadav15/Hackathon",
+   "lang": "JavaScript",
+   "x": 9.05392074584961,
+   "y": 12.318412780761719,
+   "domain": "AI & developer tools",
+   "corrected": true
+  },
+  {
+   "name": "Interverse_video",
+   "url": "https://github.com/Aryan-yadav15/Interverse_video",
+   "lang": "JavaScript",
+   "x": 8.187225341796875,
+   "y": 11.864051818847656,
+   "domain": "AI & developer tools",
+   "corrected": false
+  },
+  {
+   "name": "inventory-management",
+   "url": "https://github.com/Aryan-yadav15/inventory-management",
+   "lang": "JavaScript",
+   "x": 7.688098430633545,
+   "y": 10.122910499572754,
+   "domain": "Commerce & operations",
+   "corrected": false
+  },
+  {
+   "name": "karya_studios_v2",
+   "url": "https://github.com/Aryan-yadav15/karya_studios_v2",
+   "lang": "JavaScript",
+   "x": 8.101764678955078,
+   "y": 8.87119197845459,
+   "domain": "Brand sites & portfolios",
+   "corrected": false
+  },
+  {
+   "name": "khaao-gully-navigator",
+   "url": "https://github.com/Aryan-yadav15/khaao-gully-navigator",
+   "lang": "JavaScript",
+   "x": 7.565080642700195,
+   "y": 8.274005889892578,
+   "domain": "Food & delivery",
+   "corrected": false
+  },
+  {
+   "name": "KhaoGully-Main-website",
+   "url": "https://github.com/Aryan-yadav15/KhaoGully-Main-website",
+   "lang": "TypeScript",
+   "x": 8.286023139953613,
+   "y": 8.805612564086914,
+   "domain": "Food & delivery",
+   "corrected": false
+  },
+  {
+   "name": "KhaoGully-restraunt-facing",
+   "url": "https://github.com/Aryan-yadav15/KhaoGully-restraunt-facing",
+   "lang": "TypeScript",
+   "x": 7.516552448272705,
+   "y": 8.915129661560059,
+   "domain": "Food & delivery",
+   "corrected": false
+  },
+  {
+   "name": "khaooGully-customer-web",
+   "url": "https://github.com/Aryan-yadav15/khaooGully-customer-web",
+   "lang": "TypeScript",
+   "x": 7.254079818725586,
+   "y": 9.29378604888916,
+   "domain": "Food & delivery",
+   "corrected": false
+  },
+  {
+   "name": "Lakshit-portfolio",
+   "url": "https://github.com/Aryan-yadav15/Lakshit-portfolio",
+   "lang": "JavaScript",
+   "x": 8.849148750305176,
+   "y": 14.231973648071289,
+   "domain": "Brand sites & portfolios",
+   "corrected": false
+  },
+  {
+   "name": "LMS-Client",
+   "url": "https://github.com/Aryan-yadav15/LMS-Client",
+   "lang": "JavaScript",
+   "x": 5.708829879760742,
+   "y": 11.860013008117676,
+   "domain": "Community & realtime",
+   "corrected": false
+  },
+  {
+   "name": "MailMesh-Delloite-Hackathon",
+   "url": "https://github.com/Aryan-yadav15/MailMesh-Delloite-Hackathon",
+   "lang": "JavaScript",
+   "x": 8.691215515136719,
+   "y": 13.197428703308105,
+   "domain": "Community & realtime",
+   "corrected": false
+  },
+  {
+   "name": "MultiLang-ChatApp",
+   "url": "https://github.com/Aryan-yadav15/MultiLang-ChatApp",
+   "lang": "TypeScript",
+   "x": 5.952199459075928,
+   "y": 11.15776252746582,
+   "domain": "Community & realtime",
+   "corrected": false
+  },
+  {
+   "name": "My-Portfolio",
+   "url": "https://github.com/Aryan-yadav15/My-Portfolio",
+   "lang": "JavaScript",
+   "x": 8.021895408630371,
+   "y": 13.98171329498291,
+   "domain": "Brand sites & portfolios",
+   "corrected": false
+  },
+  {
+   "name": "Opal",
+   "url": "https://github.com/Aryan-yadav15/Opal",
+   "lang": "TypeScript",
+   "x": 6.122069358825684,
+   "y": 12.190591812133789,
+   "domain": "Community & realtime",
+   "corrected": true
+  },
+  {
+   "name": "Portfolio",
+   "url": "https://github.com/Aryan-yadav15/Portfolio",
+   "lang": "HTML",
+   "x": 8.132148742675781,
+   "y": 14.831645965576172,
+   "domain": "Brand sites & portfolios",
+   "corrected": false
+  },
+  {
+   "name": "PuneetVerma_Portfolio",
+   "url": "https://github.com/Aryan-yadav15/PuneetVerma_Portfolio",
+   "lang": "JavaScript",
+   "x": 8.929383277893066,
+   "y": 15.04154109954834,
+   "domain": "Brand sites & portfolios",
+   "corrected": false
+  },
+  {
+   "name": "React_Dashboard",
+   "url": "https://github.com/Aryan-yadav15/React_Dashboard",
+   "lang": "JavaScript",
+   "x": 6.635513782501221,
+   "y": 11.948863983154297,
+   "domain": "Commerce & operations",
+   "corrected": false
+  },
+  {
+   "name": "RealEstate-Chat",
+   "url": "https://github.com/Aryan-yadav15/RealEstate-Chat",
+   "lang": "JavaScript",
+   "x": 6.471165657043457,
+   "y": 10.394624710083008,
+   "domain": "Community & realtime",
+   "corrected": false
+  },
+  {
+   "name": "RealEstate-Chat-Backend",
+   "url": "https://github.com/Aryan-yadav15/RealEstate-Chat-Backend",
+   "lang": "JavaScript",
+   "x": 6.774975776672363,
+   "y": 9.893752098083496,
+   "domain": "Community & realtime",
+   "corrected": false
+  },
+  {
+   "name": "stayBrandedWeb",
+   "url": "https://github.com/Aryan-yadav15/stayBrandedWeb",
+   "lang": "JavaScript",
+   "x": 7.903007984161377,
+   "y": 13.258450508117676,
+   "domain": "Brand sites & portfolios",
+   "corrected": false
+  },
+  {
+   "name": "Thrift_Track",
+   "url": "https://github.com/Aryan-yadav15/Thrift_Track",
+   "lang": "TypeScript",
+   "x": 7.41903018951416,
+   "y": 11.579706192016602,
+   "domain": "Commerce & operations",
+   "corrected": false
+  },
+  {
+   "name": "WalmartHackathon",
+   "url": "https://github.com/Aryan-yadav15/WalmartHackathon",
+   "lang": "JavaScript",
+   "x": 9.214329719543457,
+   "y": 14.41560173034668,
+   "domain": "Commerce & operations",
+   "corrected": true
+  },
+  {
+   "name": "WoodpeckerStockSmart",
+   "url": "https://github.com/Aryan-yadav15/WoodpeckerStockSmart",
+   "lang": "JavaScript",
+   "x": 7.783699035644531,
+   "y": 10.760597229003906,
+   "domain": "Commerce & operations",
+   "corrected": false
+  }
+ ]
+}
