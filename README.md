@@ -13,6 +13,29 @@
 
 <img src="https://raw.githubusercontent.com/Aryan-yadav15/Aryan-yadav15/main/assets/about-light.svg" width="100%" alt="From the engineer: I build products end to end."/>
 
+## The portfolio
+
+<a href="https://www.heyiamaryan.com">
+  <img src="https://raw.githubusercontent.com/Aryan-yadav15/Aryan-yadav15/main/assets/portfolio/hero.jpg" width="100%" alt="heyiamaryan.com: Aryan Yadav's portfolio, a 3D coffee walk past stalls for each project"/>
+</a>
+
+<table>
+<tr>
+<td width="55%" valign="top">
+  <a href="https://www.heyiamaryan.com"><img src="https://raw.githubusercontent.com/Aryan-yadav15/Aryan-yadav15/main/assets/portfolio/walk.gif" width="100%" alt="Scrolling through the walk: campus, CampusBuzz stall and the story captions"/></a>
+</td>
+<td width="45%" valign="top">
+
+### [heyiamaryan.com](https://www.heyiamaryan.com)
+Grab a coffee and take a walk with me. It's a scroll-driven 3D diorama, from campus to the KhaooGully stalls, where every stall is a project you can tap open. There's a playable system-design room, a claw machine full of my stack, and a few easter eggs.
+
+<sub>React · Three.js · React Three Fiber · Vite</sub><br/>
+<sub>[Source on GitHub](https://github.com/Aryan-yadav15/coffee-walk)</sub>
+
+</td>
+</tr>
+</table>
+
 ## The work
 
 <table>
